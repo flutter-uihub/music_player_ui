@@ -1,9 +1,9 @@
 name: music_player_ui
 description: "free flutter ui is all you need"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/uihub
+repository: https://github.com/flutter-uihub/music_player_ui
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
